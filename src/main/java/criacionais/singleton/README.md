@@ -1,5 +1,3 @@
-Para o desafio de **Singleton**, faz sentido adaptar o README para refletir que o projeto ainda **não foi iniciado** e focar nos requisitos específicos do padrão.
-
 # Singleton Pattern
 
 > **Categoria:** Criacional
