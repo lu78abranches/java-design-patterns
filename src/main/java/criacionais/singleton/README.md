@@ -2,7 +2,7 @@
 
 > **Categoria:** Criacional
 > **Dificuldade:** Médio
-> **Status:** ⏳ Pendente
+> **Status:** ✅ Concluído
 
 ---
 
