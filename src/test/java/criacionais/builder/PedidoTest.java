@@ -33,7 +33,7 @@ public class PedidoTest{
 	@Test 
 	void deveLancarExcecaoSemCliente() {
 
-	   assertThatThrownBy(() -> new Pedido.Builder(null)).isInstanceOf(IllegalStateException.class);
+	   assertThatThrownBy(() -> new Pedido.Builder(null)).isInstanceOf(IllegalArgumentException.class);
 	}
 	
 	@Test 
