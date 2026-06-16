@@ -61,8 +61,8 @@ java-design-patterns/
 | # | Padrão | Contexto do desafio | Status | PR |
 |---|--------|---------------------|--------|----|
 | 01 | [Singleton](./src/main/java/criacionais/singleton/README.md) | Configuração global da aplicação (thread-safe) | ✅ | [#1]() |
-| 02 | [Factory Method](./src/main/java/criacionais/factory/) | Sistema de notificações (Email, SMS, Push) | ✅ | [#2]() |
-| 03 | [Builder](./src/main/java/criacionais/builder/) | Construção fluente de pedidos com validação | ⏳ | [#3]() |
+| 02 | [Factory Method](./src/main/java/criacionais/factory/README.md) | Sistema de notificações (Email, SMS, Push) | ✅ | [#2]() |
+| 03 | [Builder](./src/main/java/criacionais/builder/README.md) | Construção fluente de pedidos com validação | ✅ | [#3]() |
 | 04 | [Prototype](./src/main/java/criacionais/prototype/) | Templates de documentos com deep copy | ⏳ | — |
 
 ### Nível 2 — Padrões Estruturais
